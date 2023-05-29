@@ -1,2 +1,2 @@
 # Genetic-algorithm
-The project focuses on manipulating abstract data types, namely populations and individuals, to create a genetic algorithm. The report will list and explain the algorithms used
+The project aims to define and manipulate abstract data types called Individu and Population. An Individu is represented by a sequence of bits, and a Population is a collection of Individus. This project involves a simplified version of genetic algorithms, which is one approach to solving optimization problems.
